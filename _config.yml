@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Sichao He (贺思超)"
 description              : "Ph.D student from Academy for Advance Interdisciplinary Studies(AAIS), Peking University "
-repository               : "routhleck/routhleck.github.io"
+repository               : "sichaohe/sichaohe.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "routhleck"
+  github           : "sichaohe"
   google_plus      :
   keybase          :
   instagram        : # "https://www.instagram.com/routhleckhe?igsh=MXA3dHI2ZjYzeDZ3MQ=="
