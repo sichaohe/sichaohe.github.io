@@ -1,4 +1,5 @@
 # 🎖 Honors and Awards
+- *2026.09* [Luohua (China) Scholarship, Peking University](https://www.pkuef.org/info/1133/7154.htm)
 - *2026.05* [天外家园：The Next Home" Lunar Base Design Challenge](https://mp.weixin.qq.com/s/foM_A48dPOxqM0Aa8hPcXA) - First Place Champion
 - *2026.01* [Peking University Quantitative Biology Graduate Scholarship, Third Prize](https://english.pku.edu.cn)
 - *2025.12* [Deep Hackathon 2025](https://www.douyin.com/user/MS4wLjABAAAACo8bp7B6-hQ6TUiSV9SxhMu15elfR329GU3YdhU900w) - Bronze Prize
